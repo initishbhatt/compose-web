@@ -6,16 +6,8 @@ slug: getting-started
 ---
 ## What is Jetpack Compose
 
-Jamdocs is a documentation theme for Gridsome, built to spin up quick, beautiful and static documentation sites fast without hassle. Since there is no theming system for Gridsome yet, Jamdocs comes with Gridsome, plug-ins and packages as dependencies.
+[Jetpack Compose](https://developer.android.com/jetpack/compose) is a modern toolkit designed to simplify UI development. It combines a reactive programming model with the conciseness and ease of use of the Kotlin programming language. It is fully declarative, meaning you describe your UI by calling a series of functions that transform data into a UI hierarchy. When the underlying data changes, the framework automatically recalls these functions, updating the view hierarchy for you.
 
-## Local installation
+## Basics
 
-Even though Jamdocs is so simple, you dont really need to set it up localy (you could just fork it on github to edit styles and md-files) - if you want to change it up a bit I recommend setting up localy for a better developer experience.
-
-To set up a new instance of Jamdocs, and start developing just clone the project from Github like, go to the directory and run gridsome:
-
-```bash
-git clone https://github.com/samuelhorn/jamdocs project-name
-cd project-name
-gridsome develop
-```
+[CodeLab for JetpackCompose](https://developer.android.com/codelabs/jetpack-compose-basics#1 "Jetpack Compose")
