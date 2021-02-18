@@ -10,15 +10,15 @@
       ]
     },
     {
-      "section": "Setup",
+      "section": "Content",
       "topics": [
         {
-          "title": "Theme configuration",
-          "slug": "theme-configuration"
+          "title": "Examples",
+          "slug": "examples"
         },
         {
-          "title": "Forestry CMS",
-          "slug": "forestry-cms"
+          "title": "Other samples",
+          "slug": "other-samples"
         }
       ]
     }
