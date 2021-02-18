@@ -1,7 +1,7 @@
 ---
-title: Theme configuration 
+title: Examples
 date: 2018-09-15 07:42:34
-slug: theme-configuration
+slug: examples
 ---
 
 ## Changing logo
