@@ -13,8 +13,6 @@ sections:
   match: "**/*"
   templates:
   - documentation-page
-- type: heading
-  label: Settings
 - type: document
   path: data/settings.json
   label: Menu
