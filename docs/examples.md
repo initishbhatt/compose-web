@@ -6,4 +6,6 @@ slug: examples
 ---
 ## Compose Official Sample
 
-[Link](https://github.com/android/compose-samples "Compose")![](https://github.com/android/compose-samples/blob/main/readme/samples_montage.gif)
+[Link](https://github.com/android/compose-samples "Compose")
+
+/samples_montage.gif
