@@ -8,4 +8,4 @@ slug: examples
 
 [Link](https://github.com/android/compose-samples "Compose")
 
-/samples_montage.gif
+![](/samples_montage.gif)
